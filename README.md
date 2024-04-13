@@ -8,7 +8,7 @@
 A Practice code using Polymorphism and Inheritance
 
 # Download Link
-<br>Windows: [**Windows - Polymorphism & Inheritance**](https://drive.google.com/file/d/1L2q-3RqYWpqujiRmuK5S27KC0ehaM-WC/view?usp=sharing)
+<br>Windows: [**Polymorphism & Inheritance**](https://drive.google.com/file/d/1L2q-3RqYWpqujiRmuK5S27KC0ehaM-WC/view?usp=sharing)
 
 # Software Used
 - Unity
